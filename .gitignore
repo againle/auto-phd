@@ -1,0 +1,70 @@
+# ============================================================
+# Python 项目 .gitignore
+# ============================================================
+
+# 虚拟环境
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+eggs/
+*.egg
+
+# IDE 配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 敏感文件（包含API密钥等）
+config.yaml
+.env
+*.pem
+credentials.json
+token.json
+
+# 下载的 PDF 缓存
+papers_cache/*.pdf
+
+# 日志文件
+logs/*.log
+
+# 检查点文件
+checkpoints/*.json
+
+# 操作系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# pytest
+.pytest_cache/
+htmlcov/
+.coverage
+coverage.xml

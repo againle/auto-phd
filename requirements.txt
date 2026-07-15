@@ -1,0 +1,31 @@
+# 学术申请自动化 - Python 依赖
+# 使用 pip install -r requirements.txt 安装
+
+# LLM API
+openai>=1.0.0
+
+# 配置管理
+pyyaml>=6.0
+python-dotenv>=1.0.0
+
+# 学术搜索
+scholarly>=1.7.0
+
+# PDF 解析
+PyPDF2>=3.0.0
+pdfplumber>=0.10.0
+
+# HTTP 请求
+requests>=2.31.0
+
+# 进度条
+tqdm>=4.66.0
+
+# 数据验证
+pydantic>=2.0.0
+
+# 重试机制
+tenacity>=8.2.0
+
+# 命令行接口
+click>=8.1.0

@@ -1,0 +1,138 @@
+{
+  "personal_info": {
+    "name": "张三 (San Zhang)",
+    "email": "san.zhang@example.edu",
+    "current_institution": "清华大学 (Tsinghua University)",
+    "current_position": "PhD Candidate (预计2027年毕业)",
+    "website": "https://example.com/sanzhang",
+    "citizenship": "China",
+    "google_scholar": "https://scholar.google.com/citations?user=EXAMPLE"
+  },
+  "research_interests": [
+    {
+      "topic": "Machine Learning for Scientific Discovery",
+      "keywords": [
+        "deep learning",
+        "reinforcement learning",
+        "scientific discovery",
+        "AI for Science",
+        "protein structure prediction",
+        "molecular dynamics"
+      ],
+      "priority": 5
+    },
+    {
+      "topic": "AI in Healthcare",
+      "keywords": [
+        "medical imaging",
+        "diagnosis",
+        "healthcare AI",
+        "clinical decision support",
+        "drug discovery"
+      ],
+      "priority": 4
+    },
+    {
+      "topic": "Natural Language Processing",
+      "keywords": [
+        "large language models",
+        "text mining",
+        "knowledge graphs",
+        "information extraction",
+        "scientific literature mining"
+      ],
+      "priority": 3
+    }
+  ],
+  "technical_skills": [
+    {
+      "category": "Programming",
+      "skills": ["Python", "PyTorch", "TensorFlow", "C++", "R", "CUDA"],
+      "proficiency": 5
+    },
+    {
+      "category": "Tools & Platforms",
+      "skills": ["Git", "Docker", "Linux", "LaTeX", "Weights & Biases", "MLflow"],
+      "proficiency": 4
+    },
+    {
+      "category": "Domain Knowledge",
+      "skills": ["Computational Biology", "Drug Discovery", "Medical Image Analysis"],
+      "proficiency": 4
+    }
+  ],
+  "publications": [
+    {
+      "title": "Deep Learning for Protein Structure Prediction: A Novel Neural Architecture",
+      "authors": ["San Zhang", "Li Wang", "Chen Liu", "Wei Chen"],
+      "journal": "Nature Machine Intelligence",
+      "year": 2025,
+      "doi": "10.1038/s42256-025-01234-5",
+      "contribution_summary": "提出了一个新的神经网络架构，提高了蛋白质结构预测的准确率15%",
+      "url": "https://doi.org/10.1038/s42256-025-01234-5"
+    },
+    {
+      "title": "Reinforcement Learning for Molecular Dynamics Simulation",
+      "authors": ["San Zhang", "Wei Chen"],
+      "journal": "ICML 2025",
+      "year": 2025,
+      "doi": "10.48550/arXiv.2506.12345",
+      "contribution_summary": "将强化学习应用于分子动力学模拟，加速采样效率3倍",
+      "url": "https://arxiv.org/abs/2506.12345"
+    },
+    {
+      "title": "AI-Driven Medical Image Diagnosis: A Survey",
+      "authors": ["San Zhang", "Ming Li", "Hong Wang"],
+      "journal": "IEEE Transactions on Medical Imaging",
+      "year": 2024,
+      "doi": "10.1109/TMI.2024.3456789",
+      "contribution_summary": "系统综述了AI在医学影像诊断中的应用，涵盖50+方法",
+      "url": "https://doi.org/10.1109/TMI.2024.3456789"
+    }
+  ],
+  "education": [
+    {
+      "institution": "清华大学 (Tsinghua University)",
+      "degree": "PhD in Computer Science",
+      "year_start": 2022,
+      "year_end": 2027,
+      "advisor": "Prof. Wei Chen",
+      "gpa": "3.9/4.0"
+    },
+    {
+      "institution": "北京大学 (Peking University)",
+      "degree": "Bachelor of Science in Mathematics",
+      "year_start": 2018,
+      "year_end": 2022,
+      "gpa": "3.8/4.0"
+    }
+  ],
+  "target_preferences": {
+    "locations": ["United States", "Canada", "United Kingdom", "Switzerland"],
+    "school_ranks": ["Top 50"],
+    "professor_ranks": ["Assistant Professor", "Associate Professor"],
+    "min_quality_score": 70,
+    "max_applications": 50
+  },
+  "additional_info": {
+    "awards": [
+      "Best Paper Award at ICML 2025",
+      "National Scholarship (2023, 2024)",
+      "Outstanding Graduate of Peking University (2022)"
+    ],
+    "languages": {
+      "Chinese": "Native",
+      "English": "Fluent (TOEFL: 110, GRE: 330)"
+    },
+    "research_statement": "I am interested in developing AI methods to accelerate scientific discovery, particularly in biology and medicine. My work spans deep learning for protein structure prediction, reinforcement learning for molecular simulation, and AI-driven medical image analysis.",
+    "teaching_experience": "Teaching Assistant for 'Machine Learning' (2023), 'Deep Learning' (2024) at Tsinghua University",
+    "references": [
+      {
+        "name": "Prof. Wei Chen",
+        "institution": "Tsinghua University",
+        "email": "weichen@tsinghua.edu.cn",
+        "relationship": "PhD Advisor"
+      }
+    ]
+  }
+}
