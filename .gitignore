@@ -68,3 +68,10 @@ dmypy.json
 htmlcov/
 .coverage
 coverage.xml
+
+# 其他
+checkpoints/
+logs/
+papers_cache/
+professors/
+profiles/
