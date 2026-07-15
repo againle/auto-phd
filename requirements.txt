@@ -29,3 +29,9 @@ tenacity>=8.2.0
 
 # 命令行接口
 click>=8.1.0
+
+# Streamlit 可视化
+streamlit>=1.28.0
+pandas>=2.0.0
+plotly>=5.17.0
+watchdog>=3.0.0

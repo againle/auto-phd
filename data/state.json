@@ -1,0 +1,68 @@
+{
+  "run_mode": "full_auto",
+  "auto_target": 5,
+  "auto_min_score": 50,
+  "auto_max_rounds": 10,
+  "auto_stagnant_stop": 3,
+  "auto_keyword_limit": 20,
+  "auto_max_cost": 0.5,
+  "current_round": 1,
+  "is_running": false,
+  "current_strategy": "carpet_bomb",
+  "used_keywords": [
+    "machine learning",
+    "Mathematics",
+    "Optimization"
+  ],
+  "used_regions": [],
+  "consecutive_no_new": 0,
+  "total_api_cost": 0.0,
+  "professors": {
+    "x": {
+      "name": "T",
+      "scholar_id": "x",
+      "_score": 80,
+      "research_topics": [
+        "AI"
+      ],
+      "_status": "selected",
+      "_added_at": "2026-07-15T23:32:22.692530"
+    }
+  },
+  "selected_ids": [
+    "x"
+  ],
+  "rejected_ids": [],
+  "round_history": [],
+  "current_plan": {
+    "regions": [
+      "United States",
+      "Canada",
+      "United Kingdom",
+      "Switzerland"
+    ],
+    "school_ranks": [
+      "Top 50"
+    ],
+    "professor_ranks": [
+      "Assistant Professor",
+      "Associate Professor"
+    ],
+    "keywords": [
+      "Mathematics",
+      "Optimization"
+    ],
+    "time_range_years": 3,
+    "max_results_per_query": 15,
+    "rationale": "搜索范围覆盖申请人的所有目标地区，并优先包含助理教授以聚焦近期最可能招聘的群体。关键词整合了三个研究方向的核心术语及其常见领域同义词，确保搜索全面且精准。",
+    "search_round_id": "20260715_233413",
+    "generated_at": "2026-07-15T23:34:48.993203"
+  },
+  "pending_ids": [],
+  "total_found": 1,
+  "total_qualified": 0,
+  "total_selected": 1,
+  "total_emails_generated": 0,
+  "total_emails_sent": 0,
+  "strategy_log": []
+}

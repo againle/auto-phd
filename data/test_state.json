@@ -1,0 +1,45 @@
+{
+  "run_mode": "semi_auto",
+  "auto_target": 30,
+  "auto_min_score": 50,
+  "auto_max_rounds": 10,
+  "auto_stagnant_stop": 3,
+  "auto_keyword_limit": 20,
+  "auto_max_cost": 0.5,
+  "current_round": 0,
+  "is_running": false,
+  "current_strategy": "carpet_bomb",
+  "used_keywords": [],
+  "used_regions": [],
+  "consecutive_no_new": 0,
+  "total_api_cost": 0.0,
+  "professors": {
+    "t1": {
+      "name": "Test Prof",
+      "scholar_id": "t1",
+      "research_topics": [
+        "AI"
+      ],
+      "h_index": 15,
+      "publication_count": 20,
+      "_score": 75,
+      "_status": "selected",
+      "_added_at": "2026-07-15T23:29:06.689253"
+    }
+  },
+  "selected_ids": [
+    "t1"
+  ],
+  "rejected_ids": [],
+  "round_history": [],
+  "current_plan": null,
+  "pending_ids": [],
+  "total_found": 1,
+  "total_qualified": 1,
+  "total_selected": 1,
+  "total_emails_generated": 0,
+  "total_emails_sent": 0,
+  "strategy_log": [
+    "[23:29:06] Test strategy message"
+  ]
+}
